@@ -1,0 +1,13 @@
+{
+  "current_patient_index": 0,
+  "patient_labels": {
+    "A00001": {
+      "left_assessment": "I",
+      "right_assessment": "I",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 13.984499216079712
+    }
+  },
+  "last_save_time": "2025-10-28 14:14:12"
+}

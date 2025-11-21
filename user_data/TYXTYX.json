@@ -1,0 +1,41 @@
+{
+  "current_patient_index": 5,
+  "patient_labels": {
+    "A00001": {
+      "left_assessment": "VIII",
+      "right_assessment": "VI",
+      "left_usefulness": "4",
+      "right_usefulness": "4",
+      "time_spent": 775.5450420379639
+    },
+    "A00002": {
+      "left_assessment": "V",
+      "right_assessment": "V",
+      "left_usefulness": "4",
+      "right_usefulness": "4",
+      "time_spent": 47.606414794921875
+    },
+    "A00004": {
+      "left_assessment": "VI",
+      "right_assessment": "II",
+      "left_usefulness": "4",
+      "right_usefulness": "4",
+      "time_spent": 76.99062609672546
+    },
+    "A00006": {
+      "left_assessment": "VI",
+      "right_assessment": "II",
+      "left_usefulness": "4",
+      "right_usefulness": "5",
+      "time_spent": 64.55971145629883
+    },
+    "A00009": {
+      "left_assessment": "II",
+      "right_assessment": "V",
+      "left_usefulness": "5",
+      "right_usefulness": "4",
+      "time_spent": 57.6094856262207
+    }
+  },
+  "last_save_time": "2025-11-18 22:24:10"
+}

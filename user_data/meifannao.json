@@ -1,0 +1,1406 @@
+{
+  "current_patient_index": 199,
+  "patient_labels": {
+    "A00001": {
+      "left_assessment": "V",
+      "right_assessment": "VI",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 47.572341203689575
+    },
+    "A00002": {
+      "left_assessment": "V",
+      "right_assessment": "V",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 18.34781575202942
+    },
+    "A00004": {
+      "left_assessment": "V",
+      "right_assessment": "I",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 63.37564301490784
+    },
+    "A00006": {
+      "left_assessment": "VI",
+      "right_assessment": "II",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 29.307838678359985
+    },
+    "A00009": {
+      "left_assessment": "I",
+      "right_assessment": "VIII",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 96.22939944267273
+    },
+    "A00010": {
+      "left_assessment": "VII",
+      "right_assessment": "III",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 38.331663608551025
+    },
+    "A00011": {
+      "left_assessment": "VIII",
+      "right_assessment": "V",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 33.05261826515198
+    },
+    "A00012": {
+      "left_assessment": "II",
+      "right_assessment": "VI",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 21.32726502418518
+    },
+    "A00013": {
+      "left_assessment": "V",
+      "right_assessment": "I",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 37.25429177284241
+    },
+    "A00014": {
+      "left_assessment": "II",
+      "right_assessment": "VII",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 10.873918533325195
+    },
+    "A00017": {
+      "left_assessment": "VI",
+      "right_assessment": "VI",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 27.38909387588501
+    },
+    "A00019": {
+      "left_assessment": "VI",
+      "right_assessment": "VI",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 29.151378631591797
+    },
+    "A00020": {
+      "left_assessment": "VI",
+      "right_assessment": "V",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 18.618932962417603
+    },
+    "A00021": {
+      "left_assessment": "II",
+      "right_assessment": "VI",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 11.372829914093018
+    },
+    "A00022": {
+      "left_assessment": "VI",
+      "right_assessment": "VI",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 14.110610246658325
+    },
+    "A00024": {
+      "left_assessment": "VII",
+      "right_assessment": "VII",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 49.19453001022339
+    },
+    "A00025": {
+      "left_assessment": "V",
+      "right_assessment": "VII",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 42.59011697769165
+    },
+    "A00026": {
+      "left_assessment": "VI",
+      "right_assessment": "V",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 36.77148795127869
+    },
+    "A00027": {
+      "left_assessment": "II",
+      "right_assessment": "VII",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 19.98163366317749
+    },
+    "A00028": {
+      "left_assessment": "V",
+      "right_assessment": "I",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 21.39793372154236
+    },
+    "A00029": {
+      "left_assessment": "V",
+      "right_assessment": "II",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 17.594647884368896
+    },
+    "A00031": {
+      "left_assessment": "II",
+      "right_assessment": "VIII",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 15.334283113479614
+    },
+    "A00033": {
+      "left_assessment": "VI",
+      "right_assessment": "II",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 16.000956773757935
+    },
+    "A00035": {
+      "left_assessment": "VIII",
+      "right_assessment": "II",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 17.805843114852905
+    },
+    "A00037": {
+      "left_assessment": "VIII",
+      "right_assessment": "VIII",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 23.0941219329834
+    },
+    "A00041": {
+      "left_assessment": "VII",
+      "right_assessment": "VII",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 20.334316730499268
+    },
+    "A00042": {
+      "left_assessment": "II",
+      "right_assessment": "VI",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 23.967286586761475
+    },
+    "A00043": {
+      "left_assessment": "V",
+      "right_assessment": "VI",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 60.74832487106323
+    },
+    "A00044": {
+      "left_assessment": "V",
+      "right_assessment": "VI",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 83.04549765586853
+    },
+    "A00045": {
+      "left_assessment": "VI",
+      "right_assessment": "II",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 15.558121681213379
+    },
+    "A00046": {
+      "left_assessment": "VII",
+      "right_assessment": "VII",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 10.624994993209839
+    },
+    "A00049": {
+      "left_assessment": "II",
+      "right_assessment": "V",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 48.45212435722351
+    },
+    "A00057": {
+      "left_assessment": "VIII",
+      "right_assessment": "VIII",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 68.27017831802368
+    },
+    "A00060": {
+      "left_assessment": "III",
+      "right_assessment": "VI",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 30.83874797821045
+    },
+    "A00061": {
+      "left_assessment": "VIII",
+      "right_assessment": "VIII",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 44.209402322769165
+    },
+    "A00062": {
+      "left_assessment": "III",
+      "right_assessment": "VI",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 39.225778341293335
+    },
+    "A00063": {
+      "left_assessment": "VI",
+      "right_assessment": "VI",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 20.0205020904541
+    },
+    "A00065": {
+      "left_assessment": "VIII",
+      "right_assessment": "VI",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 51.32459545135498
+    },
+    "A00066": {
+      "left_assessment": "V",
+      "right_assessment": "VI",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 33.99131679534912
+    },
+    "A00067": {
+      "left_assessment": "V",
+      "right_assessment": "VI",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 63.284554958343506
+    },
+    "A00068": {
+      "left_assessment": "V",
+      "right_assessment": "VI",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 23.565657138824463
+    },
+    "A00069": {
+      "left_assessment": "V",
+      "right_assessment": "II",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 37.829126834869385
+    },
+    "A00070": {
+      "left_assessment": "VIII",
+      "right_assessment": "VI",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 91.80985808372498
+    },
+    "A00075": {
+      "left_assessment": "II",
+      "right_assessment": "VI",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 16.412190198898315
+    },
+    "A00076": {
+      "left_assessment": "V",
+      "right_assessment": "VI",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 24.153438329696655
+    },
+    "A00082": {
+      "left_assessment": "VIII",
+      "right_assessment": "VI",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 44.956923723220825
+    },
+    "A00085": {
+      "left_assessment": "VI",
+      "right_assessment": "V",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 65.71787881851196
+    },
+    "A00086": {
+      "left_assessment": "V",
+      "right_assessment": "V",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 79.1148726940155
+    },
+    "A00087": {
+      "left_assessment": "V",
+      "right_assessment": "V",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 84.56035280227661
+    },
+    "A00088": {
+      "left_assessment": "VI",
+      "right_assessment": "V",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 98.88928198814392
+    },
+    "A00090": {
+      "left_assessment": "VI",
+      "right_assessment": "V",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 25.359721660614014
+    },
+    "A00091": {
+      "left_assessment": "III",
+      "right_assessment": "VI",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 56.04749417304993
+    },
+    "A00092": {
+      "left_assessment": "V",
+      "right_assessment": "VI",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 54.89258313179016
+    },
+    "A00093": {
+      "left_assessment": "II",
+      "right_assessment": "V",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 108.31011128425598
+    },
+    "A00096": {
+      "left_assessment": "III",
+      "right_assessment": "VI",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 14.800515174865723
+    },
+    "A00097": {
+      "left_assessment": "VI",
+      "right_assessment": "V",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 61.90967917442322
+    },
+    "A00099": {
+      "left_assessment": "VI",
+      "right_assessment": "III",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 66.6922378540039
+    },
+    "A00102": {
+      "left_assessment": "V",
+      "right_assessment": "VI",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 78.1356635093689
+    },
+    "A00106": {
+      "left_assessment": "II",
+      "right_assessment": "VI",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 19.2445387840271
+    },
+    "A00107": {
+      "left_assessment": "V",
+      "right_assessment": "VI",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 58.623393297195435
+    },
+    "A00111": {
+      "left_assessment": "VI",
+      "right_assessment": "VIII",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 176.041485786438
+    },
+    "A00112": {
+      "left_assessment": "VI",
+      "right_assessment": "VIII",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 58.28110432624817
+    },
+    "A00118": {
+      "left_assessment": "VI",
+      "right_assessment": "VIII",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 49.33454418182373
+    },
+    "A00120": {
+      "left_assessment": "V",
+      "right_assessment": "VI",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 28.532296419143677
+    },
+    "A00121": {
+      "left_assessment": "VIII",
+      "right_assessment": "II",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 53.64676594734192
+    },
+    "A00123": {
+      "left_assessment": "VI",
+      "right_assessment": "III",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 11.976452350616455
+    },
+    "A00124": {
+      "left_assessment": "VI",
+      "right_assessment": "II",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 7.471630096435547
+    },
+    "A00125": {
+      "left_assessment": "VI",
+      "right_assessment": "III",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 69.11600971221924
+    },
+    "A00126": {
+      "left_assessment": "VIII",
+      "right_assessment": "II",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 44.763877391815186
+    },
+    "A00130": {
+      "left_assessment": "VIII",
+      "right_assessment": "VIII",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 53.88001489639282
+    },
+    "A00131": {
+      "left_assessment": "VIII",
+      "right_assessment": "VIII",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 19.65652632713318
+    },
+    "A00132": {
+      "left_assessment": "VIII",
+      "right_assessment": "II",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 6.097914218902588
+    },
+    "A00133": {
+      "left_assessment": "II",
+      "right_assessment": "VIII",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 32.94978213310242
+    },
+    "A00135": {
+      "left_assessment": "V",
+      "right_assessment": "II",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 28.94693088531494
+    },
+    "A00136": {
+      "left_assessment": "II",
+      "right_assessment": "VI",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 20.49323344230652
+    },
+    "A00137": {
+      "left_assessment": "II",
+      "right_assessment": "VI",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 24.144808530807495
+    },
+    "A00138": {
+      "left_assessment": "II",
+      "right_assessment": "VI",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 18.34445071220398
+    },
+    "A00139": {
+      "left_assessment": "VI",
+      "right_assessment": "VIII",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 40.78729486465454
+    },
+    "A00140": {
+      "left_assessment": "V",
+      "right_assessment": "V",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 46.04629325866699
+    },
+    "A00141": {
+      "left_assessment": "VII",
+      "right_assessment": "VI",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 38.72705554962158
+    },
+    "A00142": {
+      "left_assessment": "II",
+      "right_assessment": "VII",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 86.78663897514343
+    },
+    "A00144": {
+      "left_assessment": "VI",
+      "right_assessment": "II",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 59.52904510498047
+    },
+    "A00145": {
+      "left_assessment": "III",
+      "right_assessment": "III",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 69.59825396537781
+    },
+    "A00149": {
+      "left_assessment": "VI",
+      "right_assessment": "VI",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 8.193740367889404
+    },
+    "A00150": {
+      "left_assessment": "VI",
+      "right_assessment": "VI",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 49.78275179862976
+    },
+    "A00151": {
+      "left_assessment": "VI",
+      "right_assessment": "III",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 13.70898151397705
+    },
+    "A00153": {
+      "left_assessment": "V",
+      "right_assessment": "II",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 17.78031015396118
+    },
+    "A00155": {
+      "left_assessment": "II",
+      "right_assessment": "VI",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 18.501569271087646
+    },
+    "A00157": {
+      "left_assessment": "VI",
+      "right_assessment": "II",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 19.23783016204834
+    },
+    "A00158": {
+      "left_assessment": "II",
+      "right_assessment": "VI",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 11.82571005821228
+    },
+    "A00159": {
+      "left_assessment": "VI",
+      "right_assessment": "VI",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 13.738075256347656
+    },
+    "A00160": {
+      "left_assessment": "II",
+      "right_assessment": "VI",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 14.846298217773438
+    },
+    "A00161": {
+      "left_assessment": "II",
+      "right_assessment": "VIII",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 73.30188751220703
+    },
+    "A00163": {
+      "left_assessment": "II",
+      "right_assessment": "V",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 19.27191710472107
+    },
+    "A00164": {
+      "left_assessment": "VII",
+      "right_assessment": "II",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 11.36211609840393
+    },
+    "A00165": {
+      "left_assessment": "II",
+      "right_assessment": "V",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 91.9995367527008
+    },
+    "A00166": {
+      "left_assessment": "V",
+      "right_assessment": "V",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 44.846583127975464
+    },
+    "A00169": {
+      "left_assessment": "II",
+      "right_assessment": "VI",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 11.49613642692566
+    },
+    "A00170": {
+      "left_assessment": "II",
+      "right_assessment": "VIII",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 10.887128353118896
+    },
+    "A00171": {
+      "left_assessment": "VIII",
+      "right_assessment": "VIII",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 41.51324391365051
+    },
+    "A00172": {
+      "left_assessment": "VIII",
+      "right_assessment": "II",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 42.78587198257446
+    },
+    "A00173": {
+      "left_assessment": "V",
+      "right_assessment": "II",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 17.724515199661255
+    },
+    "A00174": {
+      "left_assessment": "VIII",
+      "right_assessment": "II",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 36.052921295166016
+    },
+    "A00175": {
+      "left_assessment": "VI",
+      "right_assessment": "II",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 15.125631093978882
+    },
+    "A00177": {
+      "left_assessment": "II",
+      "right_assessment": "VII",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 32.618900537490845
+    },
+    "A00178": {
+      "left_assessment": "VI",
+      "right_assessment": "II",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 36.818363189697266
+    },
+    "A00179": {
+      "left_assessment": "VII",
+      "right_assessment": "II",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 143.25304245948792
+    },
+    "A00180": {
+      "left_assessment": "VI",
+      "right_assessment": "II",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 16.467174291610718
+    },
+    "A00181": {
+      "left_assessment": "V",
+      "right_assessment": "II",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 65.43755769729614
+    },
+    "A00182": {
+      "left_assessment": "VI",
+      "right_assessment": "II",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 13.20259976387024
+    },
+    "A00184": {
+      "left_assessment": "VI",
+      "right_assessment": "V",
+      "left_usefulness": "4",
+      "right_usefulness": "5",
+      "time_spent": 45.96964883804321
+    },
+    "A00185": {
+      "left_assessment": "VIII",
+      "right_assessment": "VI",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 32.00715446472168
+    },
+    "A00186": {
+      "left_assessment": "VIII",
+      "right_assessment": "II",
+      "left_usefulness": "5",
+      "right_usefulness": "5",
+      "time_spent": 89.53452157974243
+    },
+    "A00187": {
+      "left_assessment": "V",
+      "right_assessment": "II",
+      "left_usefulness": "5",
+      "right_usefulness": "5",
+      "time_spent": 93.50902080535889
+    },
+    "A00188": {
+      "left_assessment": "VI",
+      "right_assessment": "II",
+      "left_usefulness": "5",
+      "right_usefulness": "5",
+      "time_spent": 17.145131826400757
+    },
+    "A00189": {
+      "left_assessment": "II",
+      "right_assessment": "V",
+      "left_usefulness": "5",
+      "right_usefulness": "5",
+      "time_spent": 20.56080913543701
+    },
+    "A00192": {
+      "left_assessment": "II",
+      "right_assessment": "VI",
+      "left_usefulness": "5",
+      "right_usefulness": "5",
+      "time_spent": 43.35143804550171
+    },
+    "A00194": {
+      "left_assessment": "V",
+      "right_assessment": "V",
+      "left_usefulness": "5",
+      "right_usefulness": "5",
+      "time_spent": 22.402932167053223
+    },
+    "A00195": {
+      "left_assessment": "VIII",
+      "right_assessment": "VII",
+      "left_usefulness": "5",
+      "right_usefulness": "2",
+      "time_spent": 22.743046760559082
+    },
+    "A00196": {
+      "left_assessment": "V",
+      "right_assessment": "II",
+      "left_usefulness": "5",
+      "right_usefulness": "5",
+      "time_spent": 39.2233202457428
+    },
+    "A00197": {
+      "left_assessment": "VI",
+      "right_assessment": "II",
+      "left_usefulness": "5",
+      "right_usefulness": "5",
+      "time_spent": 15.707557201385498
+    },
+    "A00198": {
+      "left_assessment": "V",
+      "right_assessment": "V",
+      "left_usefulness": "5",
+      "right_usefulness": "5",
+      "time_spent": 19.553697109222412
+    },
+    "A00200": {
+      "left_assessment": "II",
+      "right_assessment": "VI",
+      "left_usefulness": "5",
+      "right_usefulness": "5",
+      "time_spent": 16.449742317199707
+    },
+    "A00201": {
+      "left_assessment": "III",
+      "right_assessment": "VI",
+      "left_usefulness": "5",
+      "right_usefulness": "5",
+      "time_spent": 20.636921405792236
+    },
+    "A00203": {
+      "left_assessment": "II",
+      "right_assessment": "VI",
+      "left_usefulness": "5",
+      "right_usefulness": "5",
+      "time_spent": 17.951692819595337
+    },
+    "A00204": {
+      "left_assessment": "VI",
+      "right_assessment": "II",
+      "left_usefulness": "5",
+      "right_usefulness": "5",
+      "time_spent": 29.559629440307617
+    },
+    "A00206": {
+      "left_assessment": "II",
+      "right_assessment": "VI",
+      "left_usefulness": "5",
+      "right_usefulness": "5",
+      "time_spent": 15.273228406906128
+    },
+    "A00207": {
+      "left_assessment": "II",
+      "right_assessment": "VI",
+      "left_usefulness": "5",
+      "right_usefulness": "5",
+      "time_spent": 22.072276830673218
+    },
+    "A00208": {
+      "left_assessment": "V",
+      "right_assessment": "II",
+      "left_usefulness": "1",
+      "right_usefulness": "1",
+      "time_spent": 61.34917116165161
+    },
+    "A00209": {
+      "left_assessment": "II",
+      "right_assessment": "VIII",
+      "left_usefulness": "5",
+      "right_usefulness": "5",
+      "time_spent": 24.03159499168396
+    },
+    "A00210": {
+      "left_assessment": "VI",
+      "right_assessment": "II",
+      "left_usefulness": "5",
+      "right_usefulness": "5",
+      "time_spent": 19.531768560409546
+    },
+    "A00212": {
+      "left_assessment": "V",
+      "right_assessment": "II",
+      "left_usefulness": "5",
+      "right_usefulness": "5",
+      "time_spent": 29.37110185623169
+    },
+    "A00213": {
+      "left_assessment": "II",
+      "right_assessment": "VI",
+      "left_usefulness": "5",
+      "right_usefulness": "5",
+      "time_spent": 31.091240167617798
+    },
+    "A00214": {
+      "left_assessment": "VI",
+      "right_assessment": "II",
+      "left_usefulness": "5",
+      "right_usefulness": "5",
+      "time_spent": 29.297539472579956
+    },
+    "A00215": {
+      "left_assessment": "VI",
+      "right_assessment": "II",
+      "left_usefulness": "5",
+      "right_usefulness": "5",
+      "time_spent": 23.169671773910522
+    },
+    "A00216": {
+      "left_assessment": "VI",
+      "right_assessment": "II",
+      "left_usefulness": "5",
+      "right_usefulness": "5",
+      "time_spent": 22.618483543395996
+    },
+    "A00217": {
+      "left_assessment": "II",
+      "right_assessment": "VI",
+      "left_usefulness": "5",
+      "right_usefulness": "5",
+      "time_spent": 31.980215311050415
+    },
+    "A00218": {
+      "left_assessment": "II",
+      "right_assessment": "VI",
+      "left_usefulness": "5",
+      "right_usefulness": "5",
+      "time_spent": 40.675076484680176
+    },
+    "A00226": {
+      "left_assessment": "VI",
+      "right_assessment": "V",
+      "left_usefulness": "0",
+      "right_usefulness": "5",
+      "time_spent": 30.052987337112427
+    },
+    "A00228": {
+      "left_assessment": "VI",
+      "right_assessment": "VI",
+      "left_usefulness": "1",
+      "right_usefulness": "1",
+      "time_spent": 41.604296922683716
+    },
+    "A00229": {
+      "left_assessment": "VI",
+      "right_assessment": "II",
+      "left_usefulness": "5",
+      "right_usefulness": "5",
+      "time_spent": 27.020019054412842
+    },
+    "A00245": {
+      "left_assessment": "III",
+      "right_assessment": "V",
+      "left_usefulness": "4",
+      "right_usefulness": "2",
+      "time_spent": 37.45713925361633
+    },
+    "A00246": {
+      "left_assessment": "II",
+      "right_assessment": "V",
+      "left_usefulness": "5",
+      "right_usefulness": "2",
+      "time_spent": 22.141084909439087
+    },
+    "A00247": {
+      "left_assessment": "VI",
+      "right_assessment": "VI",
+      "left_usefulness": "5",
+      "right_usefulness": "5",
+      "time_spent": 27.873614072799683
+    },
+    "A00248": {
+      "left_assessment": "II",
+      "right_assessment": "VI",
+      "left_usefulness": "5",
+      "right_usefulness": "5",
+      "time_spent": 30.859418630599976
+    },
+    "A00249": {
+      "left_assessment": "II",
+      "right_assessment": "V",
+      "left_usefulness": "5",
+      "right_usefulness": "1",
+      "time_spent": 53.88821196556091
+    },
+    "A00250": {
+      "left_assessment": "II",
+      "right_assessment": "VIII",
+      "left_usefulness": "5",
+      "right_usefulness": "5",
+      "time_spent": 23.04425597190857
+    },
+    "A00251": {
+      "left_assessment": "VI",
+      "right_assessment": "VI",
+      "left_usefulness": "5",
+      "right_usefulness": "5",
+      "time_spent": 12.510662317276001
+    },
+    "A00252": {
+      "left_assessment": "II",
+      "right_assessment": "V",
+      "left_usefulness": "5",
+      "right_usefulness": "2",
+      "time_spent": 32.934409856796265
+    },
+    "A00253": {
+      "left_assessment": "II",
+      "right_assessment": "VI",
+      "left_usefulness": "5",
+      "right_usefulness": "5",
+      "time_spent": 19.90548825263977
+    },
+    "A00254": {
+      "left_assessment": "II",
+      "right_assessment": "VI",
+      "left_usefulness": "5",
+      "right_usefulness": "5",
+      "time_spent": 24.47854518890381
+    },
+    "A00255": {
+      "left_assessment": "II",
+      "right_assessment": "VI",
+      "left_usefulness": "5",
+      "right_usefulness": "5",
+      "time_spent": 15.646234035491943
+    },
+    "A00256": {
+      "left_assessment": "II",
+      "right_assessment": "VI",
+      "left_usefulness": "5",
+      "right_usefulness": "2",
+      "time_spent": 52.062782287597656
+    },
+    "A00257": {
+      "left_assessment": "VI",
+      "right_assessment": "II",
+      "left_usefulness": "5",
+      "right_usefulness": "5",
+      "time_spent": 53.854957818984985
+    },
+    "A00258": {
+      "left_assessment": "VI",
+      "right_assessment": "II",
+      "left_usefulness": "5",
+      "right_usefulness": "5",
+      "time_spent": 63.53222870826721
+    },
+    "A00259": {
+      "left_assessment": "VI",
+      "right_assessment": "II",
+      "left_usefulness": "2",
+      "right_usefulness": "5",
+      "time_spent": 43.23669123649597
+    },
+    "A00260": {
+      "left_assessment": "VI",
+      "right_assessment": "II",
+      "left_usefulness": "5",
+      "right_usefulness": "5",
+      "time_spent": 43.10196089744568
+    },
+    "A00261": {
+      "left_assessment": "VI",
+      "right_assessment": "II",
+      "left_usefulness": "5",
+      "right_usefulness": "5",
+      "time_spent": 31.84816265106201
+    },
+    "A00264": {
+      "left_assessment": "VI",
+      "right_assessment": "VI",
+      "left_usefulness": "5",
+      "right_usefulness": "5",
+      "time_spent": 25.010889768600464
+    },
+    "A00265": {
+      "left_assessment": "VI",
+      "right_assessment": "II",
+      "left_usefulness": "5",
+      "right_usefulness": "5",
+      "time_spent": 15.150797128677368
+    },
+    "A00266": {
+      "left_assessment": "V",
+      "right_assessment": "V",
+      "left_usefulness": "5",
+      "right_usefulness": "5",
+      "time_spent": 39.33317685127258
+    },
+    "A00267": {
+      "left_assessment": "II",
+      "right_assessment": "V",
+      "left_usefulness": "5",
+      "right_usefulness": "1",
+      "time_spent": 27.876653909683228
+    },
+    "A00268": {
+      "left_assessment": "VI",
+      "right_assessment": "II",
+      "left_usefulness": "5",
+      "right_usefulness": "5",
+      "time_spent": 21.991103649139404
+    },
+    "A00274": {
+      "left_assessment": "V",
+      "right_assessment": "V",
+      "left_usefulness": "5",
+      "right_usefulness": "5",
+      "time_spent": 34.0866003036499
+    },
+    "A00275": {
+      "left_assessment": "VI",
+      "right_assessment": "II",
+      "left_usefulness": "5",
+      "right_usefulness": "5",
+      "time_spent": 42.040385484695435
+    },
+    "A00276": {
+      "left_assessment": "II",
+      "right_assessment": "V",
+      "left_usefulness": "5",
+      "right_usefulness": "5",
+      "time_spent": 32.30221080780029
+    },
+    "A00278": {
+      "left_assessment": "II",
+      "right_assessment": "VIII",
+      "left_usefulness": "5",
+      "right_usefulness": "5",
+      "time_spent": 36.31761455535889
+    },
+    "A00287": {
+      "left_assessment": "VI",
+      "right_assessment": "II",
+      "left_usefulness": "5",
+      "right_usefulness": "5",
+      "time_spent": 14.402145624160767
+    },
+    "A00297": {
+      "left_assessment": "VIII",
+      "right_assessment": "VIII",
+      "left_usefulness": "5",
+      "right_usefulness": "5",
+      "time_spent": 22.91545295715332
+    },
+    "A00309": {
+      "left_assessment": "VI",
+      "right_assessment": "II",
+      "left_usefulness": "5",
+      "right_usefulness": "5",
+      "time_spent": 20.041532278060913
+    },
+    "A00310": {
+      "left_assessment": "VIII",
+      "right_assessment": "II",
+      "left_usefulness": "5",
+      "right_usefulness": "5",
+      "time_spent": 35.69945216178894
+    },
+    "A00311": {
+      "left_assessment": "II",
+      "right_assessment": "VI",
+      "left_usefulness": "5",
+      "right_usefulness": "5",
+      "time_spent": 13.65183973312378
+    },
+    "A00312": {
+      "left_assessment": "II",
+      "right_assessment": "VI",
+      "left_usefulness": "5",
+      "right_usefulness": "5",
+      "time_spent": 16.52325463294983
+    },
+    "A00313": {
+      "left_assessment": "VI",
+      "right_assessment": "II",
+      "left_usefulness": "5",
+      "right_usefulness": "5",
+      "time_spent": 14.432462215423584
+    },
+    "A00314": {
+      "left_assessment": "VI",
+      "right_assessment": "VIII",
+      "left_usefulness": "5",
+      "right_usefulness": "5",
+      "time_spent": 86.0904815196991
+    },
+    "A00315": {
+      "left_assessment": "II",
+      "right_assessment": "VI",
+      "left_usefulness": "5",
+      "right_usefulness": "5",
+      "time_spent": 25.96580410003662
+    },
+    "A00333": {
+      "left_assessment": "II",
+      "right_assessment": "VI",
+      "left_usefulness": "0",
+      "right_usefulness": "0",
+      "time_spent": 20.941545248031616
+    },
+    "A00335": {
+      "left_assessment": "VI",
+      "right_assessment": "II",
+      "left_usefulness": "5",
+      "right_usefulness": "0",
+      "time_spent": 23.52752113342285
+    },
+    "A00340": {
+      "left_assessment": "II",
+      "right_assessment": "V",
+      "left_usefulness": "5",
+      "right_usefulness": "5",
+      "time_spent": 21.29477596282959
+    },
+    "A00355": {
+      "left_assessment": "II",
+      "right_assessment": "VI",
+      "left_usefulness": "5",
+      "right_usefulness": "5",
+      "time_spent": 29.703961849212646
+    },
+    "A00356": {
+      "left_assessment": "II",
+      "right_assessment": "VIII",
+      "left_usefulness": "5",
+      "right_usefulness": "5",
+      "time_spent": 15.846242666244507
+    },
+    "A00357": {
+      "left_assessment": "II",
+      "right_assessment": "VI",
+      "left_usefulness": "5",
+      "right_usefulness": "5",
+      "time_spent": 18.6934597492218
+    },
+    "A00358": {
+      "left_assessment": "V",
+      "right_assessment": "V",
+      "left_usefulness": "1",
+      "right_usefulness": "1",
+      "time_spent": 32.73739290237427
+    },
+    "A00359": {
+      "left_assessment": "II",
+      "right_assessment": "V",
+      "left_usefulness": "5",
+      "right_usefulness": "1",
+      "time_spent": 38.313902616500854
+    },
+    "A00360": {
+      "left_assessment": "V",
+      "right_assessment": "II",
+      "left_usefulness": "5",
+      "right_usefulness": "5",
+      "time_spent": 23.586779594421387
+    },
+    "A00361": {
+      "left_assessment": "VIII",
+      "right_assessment": "II",
+      "left_usefulness": "1",
+      "right_usefulness": "5",
+      "time_spent": 29.049042224884033
+    },
+    "A00367": {
+      "left_assessment": "II",
+      "right_assessment": "VIII",
+      "left_usefulness": "5",
+      "right_usefulness": "5",
+      "time_spent": 15.293348789215088
+    },
+    "A00372": {
+      "left_assessment": "II",
+      "right_assessment": "VI",
+      "left_usefulness": "5",
+      "right_usefulness": "5",
+      "time_spent": 74.97382259368896
+    },
+    "A00389": {
+      "left_assessment": "V",
+      "right_assessment": "V",
+      "left_usefulness": "5",
+      "right_usefulness": "1",
+      "time_spent": 62.7868914604187
+    },
+    "A00390": {
+      "left_assessment": "V",
+      "right_assessment": "V",
+      "left_usefulness": "5",
+      "right_usefulness": "1",
+      "time_spent": 26.050320386886597
+    },
+    "A00391": {
+      "left_assessment": "VI",
+      "right_assessment": "II",
+      "left_usefulness": "5",
+      "right_usefulness": "5",
+      "time_spent": 16.66433596611023
+    },
+    "A00392": {
+      "left_assessment": "III",
+      "right_assessment": "VI",
+      "left_usefulness": "5",
+      "right_usefulness": "5",
+      "time_spent": 27.360511779785156
+    },
+    "A00402": {
+      "left_assessment": "V",
+      "right_assessment": "V",
+      "left_usefulness": "5",
+      "right_usefulness": "5",
+      "time_spent": 35.189000606536865
+    },
+    "A00415": {
+      "left_assessment": "II",
+      "right_assessment": "V",
+      "left_usefulness": "5",
+      "right_usefulness": "5",
+      "time_spent": 18.37655782699585
+    },
+    "A00417": {
+      "left_assessment": "III",
+      "right_assessment": "II",
+      "left_usefulness": "2",
+      "right_usefulness": "5",
+      "time_spent": 37.08173894882202
+    },
+    "A00420": {
+      "left_assessment": "II",
+      "right_assessment": "VIII",
+      "left_usefulness": "5",
+      "right_usefulness": "5",
+      "time_spent": 33.81880283355713
+    },
+    "A00424": {
+      "left_assessment": "VIII",
+      "right_assessment": "VIII",
+      "left_usefulness": "5",
+      "right_usefulness": "5",
+      "time_spent": 15.73656439781189
+    },
+    "A00425": {
+      "left_assessment": "VIII",
+      "right_assessment": "VIII",
+      "left_usefulness": "5",
+      "right_usefulness": "5",
+      "time_spent": 13.627684354782104
+    },
+    "A00426": {
+      "left_assessment": "VIII",
+      "right_assessment": "VIII",
+      "left_usefulness": "5",
+      "right_usefulness": "5",
+      "time_spent": 15.993260622024536
+    },
+    "A00427": {
+      "left_assessment": "VIII",
+      "right_assessment": "VIII",
+      "left_usefulness": "5",
+      "right_usefulness": "5",
+      "time_spent": 16.784265518188477
+    }
+  },
+  "last_save_time": "2025-10-28 22:48:07"
+}
